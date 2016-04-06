@@ -1,0 +1,7 @@
+2016-03-28 12:35:55,672 INFO  [Log4JDemo1] Browser lanunched 
+2016-03-28 12:36:55,786 INFO  [Log4JDemo1] Browser lanunched 
+2016-03-28 12:47:00,250 INFO  [Log4JDemo1] Browser launched 
+2016-03-28 12:47:21,575 INFO  [Log4JDemo1] Opened OrangeHRM 
+2016-03-28 12:47:22,090 INFO  [Log4JDemo1] entered username 
+2016-03-28 12:47:22,277 INFO  [Log4JDemo1] enterd password 
+2016-03-28 12:47:28,454 INFO  [Log4JDemo1] clicked on login 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Naukri]">
+  <test name="Naukri Test(failed)">
+    <classes>
+      <class name="selenium.gmail.Gmail">
+        <methods>
+          <include name="gmail"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- selenium.gmail.Gmail -->
+      <class name="selenium.naukri.NaukriLogin">
+        <methods>
+          <include name="employer"/>
+          <include name="setUp"/>
+          <include name="summary"/>
+          <include name="login"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- selenium.naukri.NaukriLogin -->
+    </classes>
+  </test> <!-- Naukri Test(failed) -->
+</suite> <!-- Failed suite [Naukri] -->
